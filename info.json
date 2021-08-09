@@ -5,8 +5,10 @@
   "github": "texasrachel",
   "email": "texasrachel@gmail.com",
   "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
-  "proficientTechnologies": [
-      ""
+  "beginningTechnologies": [
+      "html",
+      'css',
+      'javascript'
   ],
   "otherSkills": [
       ""
